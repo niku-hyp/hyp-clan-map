@@ -1,0 +1,1 @@
+HYP Clan Atlas v6 — Total Battle-inspired styling. Fixed-size markers during zoom, world country borders, 14 players, UTC date. Open preview.html directly; index.html works for GitHub Pages. No external map API required.
