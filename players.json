@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T11:18:46Z",
+  "updated_at": "2026-11-15T20:05:00Z",
   "players": [
     {
       "name": "Niku",
@@ -128,6 +128,46 @@
       "lat": 30.0444,
       "lng": 31.2357,
       "precision": "country capital"
+    },
+    {
+      "name": "Bibur",
+      "country": "Argentina",
+      "location": "Córdoba",
+      "lat": -31.4201,
+      "lng": -64.1888,
+      "precision": "city"
+    },
+    {
+      "name": "Habib",
+      "country": "Iran",
+      "location": "Tehran",
+      "lat": 35.6892,
+      "lng": 51.389,
+      "precision": "country capital"
+    },
+    {
+      "name": "Eyrondin",
+      "country": "Brazil",
+      "location": "João Pessoa, Paraíba",
+      "lat": -7.1195,
+      "lng": -34.845,
+      "precision": "state capital"
+    },
+    {
+      "name": "Teramar",
+      "country": "Germany",
+      "location": "Berlin",
+      "lat": 52.52,
+      "lng": 13.405,
+      "precision": "country capital"
+    },
+    {
+      "name": "Eyien",
+      "country": "Serbia",
+      "location": "Belgrade",
+      "lat": 44.7866,
+      "lng": 20.4489,
+      "precision": "city"
     }
   ]
 }
