@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T20:05:00Z",
+  "updated_at": "2026-11-16T06:26:00Z",
   "players": [
     {
       "name": "Niku",
@@ -167,6 +167,30 @@
       "location": "Belgrade",
       "lat": 44.7866,
       "lng": 20.4489,
+      "precision": "city"
+    },
+    {
+      "name": "Cefym AY",
+      "country": "New Zealand",
+      "location": "Wellington",
+      "lat": -41.2865,
+      "lng": 174.7762,
+      "precision": "country capital"
+    },
+    {
+      "name": "Kathrilas",
+      "country": "Brazil",
+      "location": "Curitiba",
+      "lat": -25.4284,
+      "lng": -49.2733,
+      "precision": "city"
+    },
+    {
+      "name": "Дэин",
+      "country": "Moldova",
+      "location": "Chișinău",
+      "lat": 47.0105,
+      "lng": 28.8638,
       "precision": "city"
     }
   ]
